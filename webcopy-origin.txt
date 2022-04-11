@@ -1,0 +1,1504 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.1/dist/alpine.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\gh\alpinejs\alpine@v2.8.1\dist\alpine.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\index.htm
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/account/
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\index.htm
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/account/forgot-password
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\forgot-password.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/account/login
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\login.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/account/register
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\register.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/account/storage/app/public/photos/jZA6VYLOGO_white_300px-105x105.png1626128340
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\storage\app\public\photos\jZA6VYLOGO_white_300px-105x105.png1626128340
+Content Type: application/octet-stream
+
+Uri: https://coinscaptrading.com/account/temp/css/frontend_style_blue.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\css\frontend_style_blue.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/img/about-bg.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\img\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/account/temp/js/main.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\js\main.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/aos/aos.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\aos\aos.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/aos/aos.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/counterup/counterup.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/account/temp/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/account/temp/lib/icofont/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\icofont\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/account/temp/lib/icofont/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\icofont\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/account/temp/lib/icofont/icofont.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/ionicons/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/account/temp/lib/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/account/temp/lib/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/account/temp/lib/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/account/temp/lib/isotope-layout/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/jquery.easing/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/owl.carousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/owl.carousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/account/temp/lib/owl.carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/venobox/venobox.css
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/account/temp/lib/venobox/venobox.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\venobox\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/account/temp/lib/waypoints/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\account\temp\lib\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/comments/feed/index.htm.rss
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://coinscaptrading.com/comments/feed/index.html.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\comments\feed\index.html.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/contact-us/contact-us/index.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\contact-us\contact-us\index.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/contact-us/fxcurrency.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\contact-us\fxcurrency.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/contact-us/index.htm?p=67
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/contact-us/index.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\contact-us\index.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/feed/index.htm.rss
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://coinscaptrading.com/feed/index.html.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\feed\index.html.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/fxcurrency.pdf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\fxcurrency.pdf
+Content Type: application/pdf
+
+Uri: https://coinscaptrading.com/index.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\index.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/payouts.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\payouts.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/representatives.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\representatives.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/animate-it/assets/css/animate-animobb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\animate-it\assets\css\animate-animobb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/contact-form-7/includes/css/styles3c21.html?ver=5.1.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\contact-form-7\includes\css\styles3c21.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/css/datatable-style3e0d.css?ver=1.7.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\css\datatable-style3e0d.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/css/datatable-styleb34d.css?ver=1.7.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\css\datatable-styleb34d.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/css/style3e0d.css?ver=1.7.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\css\style3e0d.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/css/styleb34d.css?ver=1.7.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\css\styleb34d.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/fonts/massive-crypto-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\fonts\massive-crypto-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/fonts/massive-crypto.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\fonts\massive-crypto.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/fonts/massive-crypto.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\fonts\massive-crypto.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/fonts/massive-crypto.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\fonts\massive-crypto.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/fonts/massive-crypto.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\fonts\massive-crypto.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/images/sort_asc_disabled.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\images\sort_asc_disabled.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/images/sort_desc_disabled.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\images\sort_desc_disabled.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/img/dual-ring-loader.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\img\dual-ring-loader.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/js/commonb34d.js?ver=1.7.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\js\commonb34d.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/js/dataTables.responsive.minb34d.js?ver=1.7.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\js\dataTables.responsive.minb34d.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/cryptocurrency-widgets-pack/assets/public/js/jquery.dataTables.minb34d.js?ver=1.7.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\cryptocurrency-widgets-pack\assets\public\js\jquery.dataTables.minb34d.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/css/frontend.min1ce0.css?ver=2.5.13
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\css\frontend.min1ce0.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/css/frontend.min60a8.css?ver=2.5.16
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\css\frontend.min60a8.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/js/frontend-modules.min60a8.js?ver=2.5.16
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\js\frontend-modules.min60a8.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/js/frontend.min60a8.js?ver=2.5.16
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\js\frontend.min60a8.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/animations/animations.min1ce0.css?ver=2.5.13
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\animations\animations.min1ce0.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/animations/animations.min60a8.css?ver=2.5.16
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\animations\animations.min60a8.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min6996.js?ver=4.7.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min6996.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb2f9.css?ver=4.3.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.minb2f9.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min1849.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min3958.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min4f24.js?ver=4.4.6
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min4f24.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min05da.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/24.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\24.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/24a.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\24a.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/alt_flags.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\alt_flags.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/alt_flagsa.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\alt_flagsa.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/arrow_down.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\arrow_down.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/arrow_up.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\arrow_up.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/flags/16/en.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\flags\16\en.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/gtranslate-style24bb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\gtranslate-style24bb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/gtranslate/switcher.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\gtranslate\switcher.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/jigoshop-ecommerce/assets/css/jigoshopbb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\jigoshop-ecommerce\assets\css\jigoshopbb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/jigoshop-ecommerce/assets/css/vendors/bootstrapbb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\jigoshop-ecommerce\assets\css\vendors\bootstrapbb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/jigoshop-ecommerce/assets/css/widget/layered_navbb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\jigoshop-ecommerce\assets\css\widget\layered_navbb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/jigoshop-ecommerce/assets/css/widget/price_filterbb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\jigoshop-ecommerce\assets\css\widget\price_filterbb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/megamenu/js/maxmegamenua77c.js?ver=2.7.1.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\megamenu\js\maxmegamenua77c.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/css/style-1583f.css?ver=3.1.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\css\style-1583f.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/css/font-awesome.min1849.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\css\font-awesome.min1849.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/font-awesome/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/asset/js/script-1583f.js?ver=3.1.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\asset\js\script-1583f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/mwp-herd-effect/public/css/style583f.css?ver=3.1.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\mwp-herd-effect\public\css\style583f.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/css/images/minimal.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\css\images\minimal.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/css/images/minimal@2x.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\css\images\minimal@2x.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/css/jquery.icheck93f6.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\css\jquery.icheck93f6.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/js/common93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\js\common93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/js/core93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\js\core93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/js/icheck.min93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\js\icheck.min93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/js/responsiveText93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\js\responsiveText93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/css/animate93f6.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\css\animate93f6.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/css/frontend.tables93f6.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\css\frontend.tables93f6.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.blocks.base93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\js\frontend.tables.editor.blocks.base93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.blocks_fabric.base93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\js\frontend.tables.editor.blocks_fabric.base93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.elements.base93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\js\frontend.tables.editor.elements.base93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\js\frontend.tables93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/modal93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\tables\js\modal93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/css/font-awesome.min93f6.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\css\font-awesome.min93f6.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/lib/tooltipster/jquery.tooltipster.min93f6.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\lib\tooltipster\jquery.tooltipster.min93f6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/pricing-table-by-supsystic/modules/templates/lib/tooltipster/tooltipster93f6.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\pricing-table-by-supsystic\modules\templates\lib\tooltipster\tooltipster93f6.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/simple-embed-code/css/video-container.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\simple-embed-code\css\video-container.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min245f.js?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\library\media\dist\smartslider-frontend.min245f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min245f.js?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\library\media\plugins\type\simple\simple\dist\smartslider-simple-type-frontend.min245f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/library/media/plugins/widgetshadow/shadow/shadow/shadow/dark.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\library\media\plugins\widgetshadow\shadow\shadow\shadow\dark.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/library/media/smartslider.min245f.css?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\library\media\smartslider.min245f.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min245f.js?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\nextend\media\dist\n2.min245f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min245f.js?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\nextend\media\dist\nextend-frontend.min245f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min245f.js?1560894352
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\smart-slider-3\nextend\media\dist\nextend-webfontloader.min245f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/tf-numbers-number-counter-animaton/assets/css/font-awesome.minbb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\tf-numbers-number-counter-animaton\assets\css\font-awesome.minbb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/tf-numbers-number-counter-animaton/assets/css/stylebb49.html?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\tf-numbers-number-counter-animaton\assets\css\stylebb49.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/slick5392.css?ver=1.12.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\css\slick5392.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/slickb37e.css?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\css\slickb37e.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/imagesloaded.min5392.js?ver=1.12.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\imagesloaded.min5392.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/imagesloaded.minb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\imagesloaded.minb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/isotope.min5392.js?ver=1.12.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\isotope.min5392.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/isotope.minb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\isotope.minb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/post-carouselb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\post-carouselb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/slick.min5392.js?ver=1.12.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\slick.min5392.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/slick.minb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\slick.minb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/table-of-contentsb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\table-of-contentsb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/timelineb37e.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\timelineb37e.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.style.build5392.css?ver=1.12.5
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\dist\blocks.style.build5392.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.style.buildb37e.css?ver=1.13.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-addons-for-gutenberg\dist\blocks.style.buildb37e.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\pickadate\default.date88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\pickadate\default.time88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\pickadate\default88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/select2/select2.min88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\select2\select2.min88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-account88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-account88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-crop88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-crop88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-fileupload88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-fonticons-fa88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-fonticons-ii88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-members88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-members88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-misc88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-misc88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-modal88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-modal88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-old-default88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-old-default88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-profile88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-profile88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-raty88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-raty88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-responsive88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-responsive88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-scrollbar88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-scrollbar88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-styles88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-styles88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/css/um-tipsy88f7.css?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\css\um-tipsy88f7.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/ionicons.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/ionicons.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/ionicons.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/ionicons.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\ionicons.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/raty-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\raty-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/raty.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\raty.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/raty.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\raty.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/raty.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\raty.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/font/raty.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\font\raty.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/img/loading-dots.gif
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\img\loading-dots.gif
+Content Type: image/gif
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/img/loading.gif
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/img/mCSB_buttons.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\img\mCSB_buttons.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\pickadate\legacy88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\pickadate\picker.date88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\pickadate\picker.time88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\pickadate\picker88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\select2\select2.full.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-account.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-account.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-conditional.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-crop.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-fileupload.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-functions.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-gdpr.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-jquery-form.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-members.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-members.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-modal.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-profile.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-raty.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-responsive.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-scripts.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-scrollbar.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-scrollbar.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min88f7.js?ver=2.0.37
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\ultimate-member\assets\js\um-tipsy.min88f7.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/admin/assets/css/adminbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\admin\assets\css\adminbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/admin/assets/css/sweetalert2.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\admin\assets\css\sweetalert2.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/admin/assets/js/admin5152.js?ver=1.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\admin\assets\js\admin5152.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/admin/assets/js/core5152.js?ver=1.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\admin\assets\js\core5152.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/admin/assets/js/sweetalert2.min5152.js?ver=1.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\admin\assets\js\sweetalert2.min5152.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/animatebb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\animatebb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/basebb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\basebb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/font-awesome.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\font-awesome.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/ionicons.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\ionicons.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/owl.carousel.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\owl.carousel.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/plugin-demobb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\plugin-demobb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/css/widgetkitbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\css\widgetkitbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont-1.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/ionicons.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/ionicons.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/ionicons.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/ionicons.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/lightcase.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\lightcase.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/lightcase.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\lightcase.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/lightcase.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\lightcase.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/fonts/lightcase.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\fonts\lightcase.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/animate-textbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\animate-textbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/anime.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\anime.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/bootstrapbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\bootstrapbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/countdownbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\countdownbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/imagesloaded.pkgd.min0235.js?ver=4.1.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\imagesloaded.pkgd.min0235.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/jquery.hoverdirbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\jquery.hoverdirbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/mixitup.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\mixitup.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/modernizr.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\modernizr.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/owl.carousel.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\owl.carousel.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/slider-3bb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\slider-3bb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/widgetkit-for-elementor/assets/js/widgetkitbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\widgetkit-for-elementor\assets\js\widgetkitbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full37f8.css?ver=1.5.3.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-full37f8.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.minb3a6.js?ver=1.19.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.minb3a6.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.mincfa9.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\wpforms-lite\assets\js\mailcheck.mincfa9.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/plugins/wpforms-lite/assets/js/wpforms37f8.js?ver=1.5.3.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\plugins\wpforms-lite\assets\js\wpforms37f8.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7.minc245.html?ver=1.8.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\css\minified\compatibility\contact-form-7.minc245.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/css/minified/menu-animation.minc245.css?ver=1.8.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\css\minified\menu-animation.minc245.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/css/minified/style.minc245.css?ver=1.8.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\css\minified\style.minc245.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://coinscaptrading.com/wp-content/themes/astra/assets/js/minified/style.minc245.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\themes\astra\assets\js\minified\style.minc245.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2018/10/back7.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2018\10\back7.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/13.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\13.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/4.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\4.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/5.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\5.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/6.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\6.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/8.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\8.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/bg51.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\bg51.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/bitcoin-Copy-Copy.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\bitcoin-Copy-Copy.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/moneygramads-Copy-2.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\moneygramads-Copy-2.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/neteller-Copy-2.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\neteller-Copy-2.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/perfect-Copy-Copy.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\perfect-Copy-Copy.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/PROGRESO-DENTAL-TEAM.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\PROGRESO-DENTAL-TEAM.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/skrill-Copy-Copy.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\skrill-Copy-Copy.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/SSS-Copy-Copy.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\SSS-Copy-Copy.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/02/western-Copy-Copy.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\02\western-Copy-Copy.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/04/bg-main.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\04\bg-main.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/11.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\11.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/12.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\12.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/13.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\13.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/14.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\14.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/15.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\15.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/16.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\16.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/25pc2006b.gif
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\25pc2006b.gif
+Content Type: image/gif
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/g2-1024x681.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\g2-1024x681.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/peek.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\peek.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/05/pricing-hero.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\05\pricing-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-logo5-1-180x180.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-logo5-1-180x180.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-logo5-1-192x192.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-logo5-1-192x192.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-logo5-1-32x32.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-logo5-1-32x32.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-logo5-111x127.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-logo5-111x127.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-LOGO_white_300px-180x180.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-LOGO_white_300px-180x180.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-LOGO_white_300px-192x192.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-LOGO_white_300px-192x192.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/cropped-LOGO_white_300px-32x32.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\cropped-LOGO_white_300px-32x32.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/logo5.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\logo5.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/LOGO_white_300px-105x105.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\LOGO_white_300px-105x105.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/LOGO_white_300px-150x150.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\LOGO_white_300px-150x150.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/2019/06/LOGO_white_300px.png
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\2019\06\LOGO_white_300px.png
+Content Type: image/png
+
+Uri: https://coinscaptrading.com/wp-content/uploads/elementor/css/global5a38.css?ver=1555272438
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\elementor\css\global5a38.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/uploads/elementor/css/global8be5.css?ver=1560901191
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\elementor\css\global8be5.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/uploads/elementor/css/post-284bf83.css?ver=1561493689
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\elementor\css\post-284bf83.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/uploads/elementor/css/post-535c4d7.html?ver=1557758937
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\elementor\css\post-535c4d7.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-content/uploads/elementor/thumbs/OTCERT-o9utf99dtcnm11ayyouxm2p9th0vu8wwllbniagkck.jpg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\elementor\thumbs\OTCERT-o9utf99dtcnm11ayyouxm2p9th0vu8wwllbniagkck.jpg
+Content Type: image/jpeg
+
+Uri: https://coinscaptrading.com/wp-content/uploads/maxmegamenu/style33c1.css?ver=60ec67
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\maxmegamenu\style33c1.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-content/uploads/maxmegamenu/style5b9c.css?ver=4bb20f
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-content\uploads\maxmegamenu\style5b9c.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-includes/css/dashicons.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\css\dashicons.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-includes/css/dist/block-library/style.minbb49.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\css\dist\block-library\style.minbb49.css
+Content Type: text/css
+
+Uri: https://coinscaptrading.com/wp-includes/fonts/dashicons.eot
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coinscaptrading.com/wp-includes/fonts/dashicons.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://coinscaptrading.com/wp-includes/js/hoverIntent.minc245.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\hoverIntent.minc245.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\imagesloaded.min55a0.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\jquery-migrate.min330a.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/jquery.masonry.minef70.js?ver=3.1.2b
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\jquery.masonry.minef70.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\jquery4a5f.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\ui\core.mine899.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\ui\position.mine899.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/ui/tabs.mine899.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\ui\tabs.mine899.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/jquery/ui/widget.mine899.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\jquery\ui\widget.mine899.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/masonry.mind617.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\masonry.mind617.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/underscore.min4511.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\underscore.min4511.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/wp-embed.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\wp-embed.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/js/wp-util.minbb49.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\js\wp-util.minbb49.js
+Content Type: application/javascript
+
+Uri: https://coinscaptrading.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://coinscaptrading.com/wp-json/index.htm.json
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://coinscaptrading.com/wp-json/index.html.html
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\index.html.html
+Content Type: text/html
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embed-3340d.xml?url=https:%2F%2Finvestearners.com%2Fsee-plans%2F&format=xml
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embed-3340d.xml
+Content Type: application/xml
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embed-392a0.json?url=https:%2F%2Finvestearners.com%2Fsee-plans%2F
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embed-392a0.json
+Content Type: application/json
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embed-75b75.json?url=https:%2F%2Foptimumtrade.online%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embed-75b75.json
+Content Type: application/json
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embed-793bf.xml?url=https:%2F%2Foptimumtrade.online%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embed-793bf.xml
+Content Type: application/xml
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embed74e7.xml?url=https:%2F%2Foptimumtrade.online%2F&format=xml
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embed74e7.xml
+Content Type: application/xml
+
+Uri: https://coinscaptrading.com/wp-json/oembed/1.0/embede3ec.json?url=https:%2F%2Foptimumtrade.online%2F
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wp-json\oembed\1.0\embede3ec.json
+Content Type: application/json
+
+Uri: https://coinscaptrading.com/xmlrpc.php0db0.xml?rsd
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\xmlrpc.php0db0.xml
+Content Type: application/xml
+
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.2.2
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wikipedia\commons\1\19\Flag_of_Ghana.svg
+Content Type: image/svg+xml
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\wikipedia\commons\9\9f\Flag_of_the_Dominican_Republic.svg
+Content Type: image/svg+xml
+
+Uri: https://widget-v4.tidiochat.com/1_88_0/static/js/render.f8a51bf919a77f20eaff.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\1_88_0\static\js\render.f8a51bf919a77f20eaff.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\coinscaptrading.com\recaptcha\api.js
+Content Type: text/javascript
+
