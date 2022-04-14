@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
    <meta name="description" content="and">
   <meta name="author" content="Coinmarkettrading>
-     <title> Login - Coinmarkettrading </title>
+     <title> Register - Coinmarkettrading </title>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
  <link rel="icon" type="image/png" href="assets/images/logo/favicon.png">
@@ -39,7 +39,7 @@
 <div class="wrapper">
     <div class="wrapper__top">
         <header class="site-header">
-            <a href="/" class="logo"></a>
+            <a href="index-1.htm" class="logo"></a>
             
 <div class="languages js-languages">
     <p class="languages__title">
@@ -218,78 +218,90 @@
 </div>
         </header>
     </div>
-    
+   
+
+   
  <div class="wrapper__bottom">
         <div class="site-content">
             <div class="site-content-in js-site-content" style="height: 100%">
 <!-- begin login -->
 <div class="login login-v2">
     
-
     
-    
+  
     
     <!-- begin brand -->
     <div class="login-header">
         <div class="brand">
-            <a href="/"><span class=""></span></a> Login        </div>
+            <a href="index-1.htm"><span class=""></span></a> Account Registration       </div>
     </div>
     <div>
             </div>
     <!-- end brand -->
     <div class="login-content">
 	
-	 <form name="loginForm" class="text-left" autocomplete="off" method="POST" action="" novalidate="">
-                    <input type="hidden" name="_token" value="GciwXBKhSKDimBpxo05jtgElpEeAmnZGVGtJBscA">
-                      
+	              <form name="loginForm" autocomplete="off" method="POST" action="" novalidate="">
+                    <input type="hidden" name="_token" value="hM9KTNLq2rebXcUITZ4ixXdjKNKVUSEMJClwygBA">
+
 			
           
                 <div class="form-group  ">
-                    <input type="text" name="username" class="form-control" required="1" id="InputName" value="" placeholder="Enter Your Username">         
+                    <input type="text" id="InputName" name="username" value="" placeholder="Enter Your Username" class="form-control" required="1">         
+                   
+  					</div>
+					
+					<div class="form-group  ">
+                    <input type="email" class="form-control" required="1" id="InputMail" name="email" value="" placeholder="Enter Your E-mail">         
                     
+
 					</div>
+					<div class="form-group  ">
+                    <input type="text" name="phone" class="form-control" required="1" value="" id="InputUsername" placeholder="Example: +44 .... .....">         
+                   
+  
+     
+					</div>
+					 <input id="" type="hidden" value="1" name="plan">
                 <div class="form-group  ">
-                    <input type="password" name="password" id="InputAmount" class="form-control" required="1" placeholder="Password">                </div>
-                    
-                    
-                    
-                    
-                    
-                    
-                  
-                    
-                    
-                    
-                    
-                    
-                    
+                    <input type="password" name="password" class="form-control" required="1" id="InputPassword" placeholder="Enter Your Password"> 
+					
+                                                      					</div>
                
+			   
+			   <div class="form-group  ">
+                    <input type="password" class="form-control" required="1" name="password_confirmation" id="InputRetypepassword" placeholder="Re-type Your Password"> 
+					
+					</div>
+					
+					
                 <div class="checkbox">
                     <div class="checkbox clearfix m-b-0 ">
                         <p class="">
                             <label>
-                                <input type="checkbox" name="check" checked="checked" id="CB">Remember Me                            </label>
+                                <input type="checkbox" name="check" checked="checked" id="cb1">
+I have read and accepted the legal terms.                      </label>
                         </p>
                     </div>
                 </div>
             </form></div>
         
             <div class="submit-btn-wrap">
-                <button class="btn btn-green-light btn-block" style="background-color:#004b9e" name="submit" type="submit" value="Submit" value="SignUp">
-                    Login                </button>
+                <button class="btn btn-green-light btn-block" style="background-color:#004b9e" name="submit" type="submit" value="submit">
+                    Sign Up         </button>
             </div>
             <div class="form-group rules ">
                                     
                                 <div style="text-align: center">
-                    <p><a href="/password/reset">Password Recovery</a></p>
-                    Not yet registered? - <a href="register.html">Sign up</a>                </div>
+                   
+                    Already have an  account? - <a href="login.php">Login</a>                </div>
         </form>
-    </div>
+		     </div>
 </div></div><!-- .site-content-in -->
 </div><!-- .site-content -->
 </div><!-- .wrapper__bottom -->
 </div><!-- .wrapper -->
         
+
 	
          
 <script src="assets/vendor_components/jquery/dist/jquery.js"></script>

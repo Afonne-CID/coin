@@ -11,8 +11,15 @@
   <meta name="author" content="Cointoptrading">
  <title> Dashboard | Coinmarkettrading </title>
     <link rel="icon" type="image/png" href="../assets/images/logo/favicon.png" />
-  <link rel="stylesheet" href="https://m.cointoptrading.com/coin/css/style.css">
-  <link href="../assets/vendor_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
+
+  <!-- Here -->
+  <link rel="stylesheet" href="../coin/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.6.3/css/ionicons.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
+
+    <link href="../assets/vendor_components/sweetalert/sweetalert.css" rel="stylesheet" type="text/css">
  <!-- toast CSS -->
     <link href="../assets/vendor_components/jquery-toast-plugin-master/src/jquery.toast.css" rel="stylesheet">
 <script src="//code.tidio.co/4ug8n4oqcfe8lyoykr6zysmyspzyrq5a.js" async></script> 
@@ -21,7 +28,7 @@
 <body id="dark">
   <header class="dark-bb">
     <nav class="navbar navbar-expand-lg">
-      <a class="navbar-brand" href="user/home"><img src="../assets/images/logo/logo.png" alt="logo"></a>
+      <a class="navbar-brand" href="home.php"><img src="../assets/images/logo/logo.png" alt="logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#headerMenu"
         aria-controls="headerMenu" aria-expanded="false" aria-label="Toggle navigation">
         <i class="icon ion-md-menu"></i>
@@ -31,7 +38,7 @@
         <ul class="navbar-nav mr-auto">
 		
 		 <li class="nav-item">
-            <a class="nav-link " href="./user/home">Trading</a>
+            <a class="nav-link " href="home.php">Trading</a>
           </li>
 		  
 		  
@@ -41,8 +48,8 @@
              Transactions
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item " href="./user/trade-history">Trade History</a>
-              <a class="dropdown-item " href="./user/earnings">Earnings</a>
+              <a class="dropdown-item " href="trade-history.php">Trade History</a>
+              <a class="dropdown-item " href="earnings.php">Earnings</a>
              
             </div>
           </li>
@@ -52,8 +59,8 @@
               Deposit
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="./user/deposit">Deposit Fund</a>
-              <a class="dropdown-item" href="./user/deposit-log">Deposit History</a>
+              <a class="dropdown-item" href="deposit.php">Deposit Fund</a>
+              <a class="dropdown-item" href="deposit-log.php">Deposit History</a>
              
             </div>
           </li>
@@ -64,14 +71,14 @@
               Withdraw
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="./user/withdraw-fund">Withdraw Funds</a>
-              <a class="dropdown-item" href="./user/withdraw-log">Withdrawal History</a>
+              <a class="dropdown-item" href="withdraw-fund.php">Withdraw Funds</a>
+              <a class="dropdown-item" href="withdraw-log.php">Withdrawal History</a>
              
             </div>
           </li>
 		  
 		   <li class="nav-item ">
-            <a class="nav-link " href="./user/plan">Plans</a>
+            <a class="nav-link " href="plan.php">Plans</a>
           </li>
 		  
         </ul>
@@ -105,7 +112,7 @@
           <li class="nav-item dropdown header-img-icon">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
               aria-expanded="false">
-                  <img src="https://m.cointoptrading.com/coin/img/avatar.svg" alt="avatar">
+                  <img src="./coin/img/avatar.svg" alt="avatar">
             </a>
             <div class="dropdown-menu">
               <div class="dropdown-header d-flex flex-column align-items-center">
@@ -120,19 +127,19 @@
               <div class="dropdown-body">
                 <ul class="profile-nav">
                   <li class="nav-item ">
-                    <a href="./user/edit-profile" class="nav-link">
+                    <a href="edit-profile" class="nav-link">
                       <i class="icon ion-md-person"></i>
                       <span>Profile</span>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="./user/earnings" class="nav-link">
+                    <a href="earnings" class="nav-link">
                       <i class="icon ion-md-wallet"></i>
                       <span>My Earnings</span>
                     </a>
                   </li>
                   <li class="nav-item ">
-                    <a href="./user/change-password" class="nav-link">
+                    <a href="change-password" class="nav-link">
                       <i class="icon ion-md-settings"></i>
                       <span>Change Password</span>
                     </a>
@@ -240,11 +247,11 @@
             <div class="markets-content">
               <h2>Account Info</h2>
               <p> <button class="btn btn-primary">Plan: STARTER</button><br><br>
-			 <img src="https://m.cointoptrading.com/coin/message-icon-transparent-11.jpg"  width="50" height="50"  alt="messages" > 
+			 <img src="./coin/message-icon-transparent-11.jpg"  width="50" height="50"  alt="messages" > 
 			  <span class="">0 Messages</span>				  
 			   </p>
 			  
-			  			  <span class="red"><a href="./user/request-demo/37" class="btn btn-danger">REQUEST FOR DEMO</a></span>
+			  			  <span class="red"><a href="request-demo/37" class="btn btn-danger">REQUEST FOR DEMO</a></span>
 			   			  </div>
 			  <br>
 			   <div class="markets-chart">
@@ -258,7 +265,7 @@
           <!-- TradingView Widget BEGIN -->
           <div class="tradingview-widget-container">
             <div id="tradingview_e8053"></div>
-            <script src="https://m.cointoptrading.com/coin/js/s3.tradingview.com/tv.js"></script>
+            <script src="./coin/js/s3.tradingview.com/tv.js"></script>
             <script>
               new TradingView.widget(
                 {
@@ -411,12 +418,12 @@
 	
 	</div>
   <footer></footer>
-  <script src="https://m.cointoptrading.com/coin/js/jquery-3.4.1.min.js"></script>
-  <script src="https://m.cointoptrading.com/coin/js/popper.min.js"></script>
-  <script src="https://m.cointoptrading.com/coin/js/bootstrap.min.js"></script>
-  <script src="https://m.cointoptrading.com/coin/js/amcharts-core.min.js"></script>
-  <script src="https://m.cointoptrading.com/coin/js/amcharts.min.js"></script>
-  <script src="https://m.cointoptrading.com/coin/js/custom.js"></script>
+  <script src="./coin/js/jquery-3.4.1.min.js"></script>
+  <script src="./coin/js/popper.min.js"></script>
+  <script src="./coin/js/bootstrap.min.js"></script>
+  <script src="./coin/js/amcharts-core.min.js"></script>
+  <script src="./coin/js/amcharts.min.js"></script>
+  <script src="./coin/js/custom.js"></script>
 
 <script src="../assets/vendor_components/jquery/dist/jquery.js"></script>
 	
@@ -426,7 +433,7 @@
 	<script src="../assets/vendor_components/fastclick/lib/fastclick.js"></script>
 	 <script src="../assets/vendor_components/sweetalert/sweetalert.min.js"></script>
 	 <!-- Crypto_Admin for demo purposes -->
-    <script src="https://m.cointoptrading.com/js/demo.js"></script>
+    <script src="./js/demo.js"></script>
 	<script src="../assets/vendor_components/bootstrap-input-spinner/src/bootstrap-input-spinner.js"></script>
 
 
@@ -638,7 +645,7 @@
             $('#tradelive')[0].reset();
 
             $.ajax({                
-                url: './user/tradelive/buy',
+                url: 'tradelive/buy',
                 data: dataPost,
                 method: "POST",
                 dataType: "json",
@@ -680,7 +687,7 @@
                                     
                                   },
                                   function(){
-                                    window.location.href = "./user/plan";
+                                    window.location.href = "plan";
                                 });
                             }
                             else
@@ -711,7 +718,7 @@
 
             $.ajax({
                 type: 'POST',
-                url: './user/tradelive/sell',
+                url: 'tradelive/sell',
                 data: dataPost,
                 dataType: "json",
                 success: function( data ){
@@ -752,7 +759,7 @@
                                     allowOutsideClick: 1                        
                                   },
                                   function(){
-                                    window.location.href = "./user/plan";
+                                    window.location.href = "plan";
                                 });
                             }
                             else
@@ -820,7 +827,7 @@
 
     function tradehistory()
     {
-        $('#tradehistory').load('./user/gethistory');
+        $('#tradehistory').load('gethistory');
 
         ont = true;
 
